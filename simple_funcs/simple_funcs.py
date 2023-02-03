@@ -25,7 +25,8 @@ def check_even_numbers_in_a_list (base_list):
 
 def open_file(file_path):
     return open(file_path, "r")
-
+def div(a,b):
+    return a/b
 
 def add_tensors (t, t1):
     return t + t1
