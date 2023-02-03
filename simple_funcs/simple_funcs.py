@@ -16,7 +16,8 @@ VAR = 50  # A Variable
 
 def add(a, b):
     return a * b
-
+def sub(a,b):
+    return a - b
 
 def check_even_numbers_in_a_list (base_list):
     return [a for a in base_list if a % 2 == 0]
