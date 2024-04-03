@@ -1,2 +1,2 @@
-# training files
-Your mom
+# Code Summarization training files
+Files for code summariization
